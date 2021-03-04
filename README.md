@@ -1,2 +1,3 @@
 # finalexam
 The final exam for my Version Control 1 course
+I first started learning about programming in highschool, taking pascal, c++, visual basic, and python. This was the turning point of having a good idea of what exactly i wanted to do with my life. I was unsure if the web development field was what I wanted to do specifically, but after having taken your courses I can say that it absolutely is. My favorite part of web development is the design aspects of it, solving problems relative to that using css and js. I also found git and sql interesting, even though they can feel like tedious housekeeping at times.
